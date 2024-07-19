@@ -1,0 +1,25 @@
+# House Price Prediction
+
+## Project Description
+This project predicts house prices using machine learning algorithms. The dataset includes features such as the number of bedrooms, square footage, location, and other relevant factors.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+## Key Features
+- Data preprocessing and cleaning
+- Exploratory data analysis (EDA)
+- Model training and evaluation
+- Hyperparameter tuning
+- Visualization of results
+
+## How to Run
+
+1. **Clone the Repository**
+   ```sh
+   git clone <repository-url>
